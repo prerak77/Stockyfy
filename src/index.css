@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.container{
+  width:90%;
+  height:100%;
+}
+
+.buttons{
+  position: absolute;
+  width: 50px;
+  left: 65%;
+  top : 35%;
+}
+
+button{
+  width: 250px;
+  padding: 15px 0;
+  text-align : center;
+  margin: 20px 10px;
+  border-radius: 25px;
+  font-weight: bold;
+  background:#1191F2;
+  color:white;
+  cursor:pointer;
+  border:none;
+  font:'Arial';
+}
+
+img{
+  position: absolute;
+  top:19%;
+  left: 150px;
+  width: 350px;
+  height: 350px;
+}
+.workout-details{
+  margin: 10rem 5em;
+  width: min(90%,75rem);
+  height: 600px;
+  display: grid;
+  grid-template-columns: 200px 200px 200px 200px 200px ;
+  position:relative;
+  top: 700px;
+  left: 50px;
+  row-gap:1px;
+
+}
+.data_box{
+  width: 160px;
+  height: 230px;
+  background: rgb(228, 78, 78);
+  border-radius: 20px;
+  text-align: center;
+  
+}
