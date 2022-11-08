@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/prerak77/Stockyfy/static/css/main.9de21a81.css",
+    "main.js": "/prerak77/Stockyfy/static/js/main.9c42c8a0.js",
+    "static/media/eos.png": "/prerak77/Stockyfy/static/media/eos.53a5aa675f62883ece82.png",
+    "static/media/img_1.png": "/prerak77/Stockyfy/static/media/img_1.a7c8db10957ae5051b4b.png",
+    "static/media/dot.png": "/prerak77/Stockyfy/static/media/dot.f6a28fa08b3298a9a296.png",
+    "static/media/bch.png": "/prerak77/Stockyfy/static/media/bch.2acd4bda8785745cddba.png",
+    "static/media/link.png": "/prerak77/Stockyfy/static/media/link.a36a2e78560b7adb1d33.png",
+    "static/media/ltc.png": "/prerak77/Stockyfy/static/media/ltc.438599a1d4c1e9524ed4.png",
+    "static/media/xlm.png": "/prerak77/Stockyfy/static/media/xlm.73519cfe37bb4564e918.png",
+    "static/media/xrp.png": "/prerak77/Stockyfy/static/media/xrp.a30ac2af14f2c3a5461a.png",
+    "static/media/btc.png": "/prerak77/Stockyfy/static/media/btc.9bc86613b468de915cfc.png",
+    "static/media/eth.png": "/prerak77/Stockyfy/static/media/eth.7ff972904ad76abc2da0.png",
+    "static/media/bnb.png": "/prerak77/Stockyfy/static/media/bnb.ddefc4ca2aabb89b7006.png",
+    "index.html": "/prerak77/Stockyfy/index.html",
+    "main.9de21a81.css.map": "/prerak77/Stockyfy/static/css/main.9de21a81.css.map",
+    "main.9c42c8a0.js.map": "/prerak77/Stockyfy/static/js/main.9c42c8a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9de21a81.css",
+    "static/js/main.9c42c8a0.js"
+  ]
+}
